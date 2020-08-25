@@ -8,11 +8,12 @@
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-      color:#d8b384;
+      color: white;
         /* Add a font */
         font-family: "Courier New", Courier, monospace;
         /* Set the font-size to 25 pixels */
         font-size: 25px;
+        filter: sepia(70%)
     }
   
   /* Position text in the top-left corner */
@@ -36,7 +37,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    text-shadow: 2px 2px black,2px 2px #5e454b ;
+    text-shadow: 5px 5px black ;
   }
   
   /* Style the <hr> element */
