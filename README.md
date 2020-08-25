@@ -1,4 +1,4 @@
-# ComingSoonLandingPage
+# Coming Soon Landing Page
 
 A simple coming soon landing page with countdown timer. 
 
